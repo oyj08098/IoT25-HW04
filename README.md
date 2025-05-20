@@ -18,8 +18,14 @@ Connected
 
 ![image](https://github.com/user-attachments/assets/b61993e8-0cac-4777-9641-5759a192bffd)
 
-sent '202234908'
+sent '202234908' (phone -> laptop)
 
 ![image](https://github.com/user-attachments/assets/5e981a02-6632-4bdc-b3b2-807ba1327a6f)
 
 ![image](https://github.com/user-attachments/assets/8e21fad8-23bd-4197-831f-43b10ac4a3b2)
+
+sent 'hi' (laptop -> phone)
+
+![image](https://github.com/user-attachments/assets/0293369a-1b35-42e2-aebf-e0e4a35cfc5d)
+
+![image](https://github.com/user-attachments/assets/663a8abf-0af8-4820-b0a5-8f0a2571a828)
